@@ -1,1 +1,2 @@
 This is my testfile
+This is a test from the old computer
